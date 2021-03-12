@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YiFX1J4lq4BefHF246FJv+OYAU96YVW0ivyXUFZbjkHh7majzMhBMq1Jb7Gl4lZdwz0Munhzv1pUElNXB4bNUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itsfl\\source\\repos\\Array-Two Sum\\Array-Two Sum\\Array-Two Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itsfl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\itsfl\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\itsfl\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\itsfl\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
